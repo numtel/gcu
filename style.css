@@ -1,0 +1,8 @@
+html { background: #b7f4f2; color: #222; font-family: sans-serif; }
+body { max-width: 720px; margin: 0 auto; padding: 10px; }
+
+hr { border: 1px solid #666; margin: 10px 0; clear:both; }
+a { color: #2b0693; }
+img { max-width: 100%; }
+.logo { float: left; width: 150px; height: 140px; font-size: 0; background: url(logo.svg) no-repeat; background-size: contain; vertical-align:middle; }
+article { white-space:pre-wrap; }
