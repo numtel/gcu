@@ -6,3 +6,4 @@ a { color: #2b0693; }
 img { max-width: 100%; }
 .logo { float: left; width: 150px; height: 140px; font-size: 0; background: url(logo.svg) no-repeat; background-size: contain; vertical-align:middle; }
 article { white-space:pre-wrap; }
+summary { cursor: pointer; font-size: 120%; }
